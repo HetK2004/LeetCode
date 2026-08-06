@@ -110,8 +110,6 @@ Each folder contains
 | ------- |
 | [0020-valid-parentheses](https://github.com/HetK2004/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
-<!---LeetCode Topics End-->
-
 ---
 
 ## 📈 Progress
