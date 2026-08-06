@@ -77,6 +77,7 @@ Each folder contains
 | ------- |
 | [0001-two-sum](https://github.com/HetK2004/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HetK2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/HetK2004/LeetCode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,10 @@ Each folder contains
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HetK2004/LeetCode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/HetK2004/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
 ---
 
