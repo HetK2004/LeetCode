@@ -77,6 +77,7 @@ Each folder contains
 | ------- |
 | [0001-two-sum](https://github.com/HetK2004/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HetK2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/HetK2004/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/HetK2004/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/HetK2004/LeetCode/tree/master/0035-search-insert-position) |
 ## Hash Table
@@ -121,6 +122,7 @@ Each folder contains
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HetK2004/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/HetK2004/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HetK2004/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
@@ -152,6 +154,10 @@ Each folder contains
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/HetK2004/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
 ---
 
