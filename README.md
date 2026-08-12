@@ -84,6 +84,7 @@ Each folder contains
 | ------- |
 | [0001-two-sum](https://github.com/HetK2004/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/HetK2004/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Each folder contains
 | [0009-palindrome-number](https://github.com/HetK2004/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HetK2004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/HetK2004/LeetCode/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Each folder contains
 | ------- |
 | [0027-remove-element](https://github.com/HetK2004/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HetK2004/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -145,6 +148,10 @@ Each folder contains
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HetK2004/LeetCode/tree/master/0067-add-binary) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
 ---
 
