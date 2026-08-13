@@ -82,6 +82,7 @@ Each folder contains
 | [0035-search-insert-position](https://github.com/HetK2004/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/HetK2004/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HetK2004/LeetCode/tree/master/0137-single-number-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,14 @@ Each folder contains
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HetK2004/LeetCode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
 ---
 
