@@ -82,6 +82,7 @@ Each folder contains
 | [0035-search-insert-position](https://github.com/HetK2004/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/HetK2004/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HetK2004/LeetCode/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/HetK2004/LeetCode/tree/master/0162-find-peak-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ Each folder contains
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HetK2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/HetK2004/LeetCode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/HetK2004/LeetCode/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
