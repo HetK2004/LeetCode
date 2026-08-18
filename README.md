@@ -85,6 +85,7 @@ Each folder contains
 | [0162-find-peak-element](https://github.com/HetK2004/LeetCode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/HetK2004/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ Each folder contains
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HetK2004/LeetCode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/HetK2004/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
