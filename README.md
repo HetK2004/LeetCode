@@ -112,6 +112,7 @@ Each folder contains
 | [0013-roman-to-integer](https://github.com/HetK2004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/HetK2004/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
+| [2485-find-the-pivot-integer](https://github.com/HetK2004/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
 | ------- |
@@ -180,6 +181,10 @@ Each folder contains
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/HetK2004/LeetCode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
 ---
 
