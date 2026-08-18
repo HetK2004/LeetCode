@@ -83,6 +83,7 @@ Each folder contains
 | [0136-single-number](https://github.com/HetK2004/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HetK2004/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/HetK2004/LeetCode/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ Each folder contains
 | [0001-two-sum](https://github.com/HetK2004/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/HetK2004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ Each folder contains
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
