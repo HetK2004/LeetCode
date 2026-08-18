@@ -84,6 +84,7 @@ Each folder contains
 | [0137-single-number-ii](https://github.com/HetK2004/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/HetK2004/LeetCode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/HetK2004/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/HetK2004/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HetK2004/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
