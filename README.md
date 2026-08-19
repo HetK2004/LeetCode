@@ -84,6 +84,7 @@ Each folder contains
 | [0137-single-number-ii](https://github.com/HetK2004/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/HetK2004/LeetCode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/HetK2004/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/HetK2004/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -96,12 +97,14 @@ Each folder contains
 | [0013-roman-to-integer](https://github.com/HetK2004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HetK2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/HetK2004/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/HetK2004/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,6 +117,7 @@ Each folder contains
 | [0013-roman-to-integer](https://github.com/HetK2004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/HetK2004/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 | [2485-find-the-pivot-integer](https://github.com/HetK2004/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
@@ -160,6 +164,7 @@ Each folder contains
 | [0067-add-binary](https://github.com/HetK2004/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/HetK2004/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HetK2004/LeetCode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -177,6 +182,7 @@ Each folder contains
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HetK2004/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Heap (Priority Queue)
