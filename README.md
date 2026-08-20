@@ -118,6 +118,7 @@ Each folder contains
 | [0013-roman-to-integer](https://github.com/HetK2004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/HetK2004/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/HetK2004/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 | [2485-find-the-pivot-integer](https://github.com/HetK2004/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## String
