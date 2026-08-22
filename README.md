@@ -120,6 +120,7 @@ Each folder contains
 | [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/HetK2004/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
+| [0470-implement-rand10-using-rand7](https://github.com/HetK2004/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 | [2485-find-the-pivot-integer](https://github.com/HetK2004/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
@@ -196,6 +197,18 @@ Each folder contains
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/HetK2004/LeetCode/tree/master/2485-find-the-pivot-integer) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/HetK2004/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/HetK2004/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/HetK2004/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
 ---
 
