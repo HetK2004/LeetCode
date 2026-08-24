@@ -131,6 +131,7 @@ Each folder contains
 | [0058-length-of-last-word](https://github.com/HetK2004/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HetK2004/LeetCode/tree/master/0067-add-binary) |
 | [0678-valid-parenthesis-string](https://github.com/HetK2004/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/HetK2004/LeetCode/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Each folder contains
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HetK2004/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/HetK2004/LeetCode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
