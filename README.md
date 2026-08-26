@@ -87,6 +87,7 @@ Each folder contains
 | [0260-single-number-iii](https://github.com/HetK2004/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/HetK2004/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HetK2004/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/HetK2004/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HetK2004/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -219,6 +220,7 @@ Each folder contains
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/HetK2004/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HetK2004/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
 ---
 
