@@ -122,6 +122,7 @@ Each folder contains
 | [0263-ugly-number](https://github.com/HetK2004/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 | [0470-implement-rand10-using-rand7](https://github.com/HetK2004/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+| [1952-three-divisors](https://github.com/HetK2004/LeetCode/tree/master/1952-three-divisors) |
 | [2485-find-the-pivot-integer](https://github.com/HetK2004/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
@@ -221,6 +222,22 @@ Each folder contains
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/HetK2004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HetK2004/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/HetK2004/LeetCode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/HetK2004/LeetCode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/HetK2004/LeetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/HetK2004/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
 ---
 
