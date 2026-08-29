@@ -92,6 +92,7 @@ Each folder contains
 | [1470-shuffle-the-array](https://github.com/HetK2004/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HetK2004/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/HetK2004/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/HetK2004/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Each folder contains
 | [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/HetK2004/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Each folder contains
 | ------- |
 | [0067-add-binary](https://github.com/HetK2004/LeetCode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/HetK2004/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/HetK2004/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -190,6 +193,7 @@ Each folder contains
 | ------- |
 | [0011-container-with-most-water](https://github.com/HetK2004/LeetCode/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/HetK2004/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/HetK2004/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
@@ -197,10 +201,12 @@ Each folder contains
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HetK2004/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/HetK2004/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/HetK2004/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
 |  |
 | ------- |
