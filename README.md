@@ -83,6 +83,7 @@ Each folder contains
 | [0136-single-number](https://github.com/HetK2004/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HetK2004/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/HetK2004/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/HetK2004/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/HetK2004/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
@@ -99,6 +100,7 @@ Each folder contains
 | ------- |
 | [0001-two-sum](https://github.com/HetK2004/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/HetK2004/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/HetK2004/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
@@ -114,6 +116,7 @@ Each folder contains
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HetK2004/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/HetK2004/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +202,7 @@ Each folder contains
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HetK2004/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/HetK2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -247,6 +251,14 @@ Each folder contains
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/HetK2004/LeetCode/tree/master/1952-three-divisors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HetK2004/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HetK2004/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
 ---
 
