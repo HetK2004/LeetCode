@@ -87,6 +87,7 @@ Each folder contains
 | [0260-single-number-iii](https://github.com/HetK2004/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/HetK2004/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/HetK2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HetK2004/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/HetK2004/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -153,6 +154,7 @@ Each folder contains
 | [0027-remove-element](https://github.com/HetK2004/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HetK2004/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/HetK2004/LeetCode/tree/master/0202-happy-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/HetK2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Each folder contains
 | ------- |
 | [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/HetK2004/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HetK2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HetK2004/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/HetK2004/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
