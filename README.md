@@ -95,6 +95,7 @@ Each folder contains
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HetK2004/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/HetK2004/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/HetK2004/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/HetK2004/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Each folder contains
 | [0137-single-number-ii](https://github.com/HetK2004/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/HetK2004/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/HetK2004/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Simulation
 |  |
 | ------- |
