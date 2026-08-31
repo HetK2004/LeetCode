@@ -80,6 +80,7 @@ Each folder contains
 | [0011-container-with-most-water](https://github.com/HetK2004/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/HetK2004/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/HetK2004/LeetCode/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HetK2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HetK2004/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HetK2004/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/HetK2004/LeetCode/tree/master/0162-find-peak-element) |
@@ -235,6 +236,7 @@ Each folder contains
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HetK2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/HetK2004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HetK2004/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Enumeration
