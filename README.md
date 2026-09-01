@@ -97,6 +97,7 @@ Each folder contains
 | [1929-concatenation-of-array](https://github.com/HetK2004/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/HetK2004/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/HetK2004/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/HetK2004/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Each folder contains
 | [0217-contains-duplicate](https://github.com/HetK2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HetK2004/LeetCode/tree/master/0268-missing-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/HetK2004/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/HetK2004/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Each folder contains
 | [0011-container-with-most-water](https://github.com/HetK2004/LeetCode/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/HetK2004/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/HetK2004/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/HetK2004/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
